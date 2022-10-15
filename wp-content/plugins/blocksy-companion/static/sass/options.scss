@@ -1,0 +1,12 @@
+@import 'options/display-conditions';
+@import 'options/animated-checkbox';
+
+.activate-license.blocksy-companion {
+	display: none !important;
+}
+
+.toplevel_page_ct-dashboard {
+	a[href*="ct-dashboard-pricing"] {
+		display: none !important;
+	}
+}
